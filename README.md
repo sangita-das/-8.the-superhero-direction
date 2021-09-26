@@ -1,8 +1,8 @@
-Project Name: Trip Today Blog
-Points
-1. Famous resort in Bangladesh
-2.
-3.
-Netlify Link:
+# Trip Today Blog
+-Amazing Resorts In Bangladesh
+-Location & Booking Information
+-Available Accommodations & Package offer
 
-Github link:
+Links
+[Visit website] (https://laughing-nightingale-b45442.netlify.app/ "LOC")
+
